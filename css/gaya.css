@@ -1,0 +1,9 @@
+.zoomable {
+    width: 100px;
+
+}
+.zoomable:hover {
+    transform: scale(1.5);
+    transition: 0.4s ease;
+}
+
